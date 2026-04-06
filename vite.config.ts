@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-    base: '/Arduino-Humidity-Guard/',
+    base: '/Project_Phycom_Arduino-Humidity-Guard/',
 }));
