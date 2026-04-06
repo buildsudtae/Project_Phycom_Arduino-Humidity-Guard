@@ -27,7 +27,7 @@ export function SourceCodeSection() {
               </p>
               <Button variant="atmospheric" size="lg" asChild>
                 <a
-                  href="https://github.com/purepk/Smart-Humidity-Guard/tree/88dcb4a8b7356473b5e43eb96748f7ad1717cea2/code" 
+                  href="https://github.com/buildsudtae/Project_Phycom_Arduino-Humidity-Guard.git" 
                   target="_blank" 
                   rel="noopener noreferrer"
                 >
