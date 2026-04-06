@@ -61,7 +61,7 @@ export function Footer() {
             <div className="flex flex-col gap-3">
               <Button variant="ghost" size="sm" className="justify-start p-0 h-auto" asChild>
                 <a
-                  href= "https://github.com/purepk/Smart-Humidity-Guard.git" 
+                  href= "https://github.com/buildsudtae/Project_Phycom_Arduino-Humidity-Guard.git" 
                   target="_blank" 
                   rel="noopener noreferrer"
                 >
