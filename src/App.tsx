@@ -8,7 +8,7 @@ import IndexPage from "@/pages/IndexPage.tsx";
 
 const queryClient = new QueryClient();
 
-const basename = "/Arduino-Humidity-Guard/";
+const basename = "/Project_Phycom_Arduino-Humidity-Guard/";
 
 const App = () => (
     <QueryClientProvider client={queryClient}>
